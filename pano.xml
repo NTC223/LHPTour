@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20986" start="node14" appversion="7.1.8" hassounds="1">
+  <panorama hideabout="1" id="node14">
+    <input levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2844" overlap="1" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" width="2844">
+      <level preload="0" height="2844" predecode="0" width="2844"/>
+      <level preload="0" height="1422" predecode="0" width="1422"/>
+      <level preload="0" height="711" predecode="0" width="711"/>
+      <level preload="1" height="355" predecode="1" width="355"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-194.693">
+      <start projection="4" pan="-0.13" fov="94.08" tilt="-35.19"/>
+      <flyin projection="9" pan="0" fov="300" tilt="-120"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="TOÀN CẢNH" copyright="" tags="Tongquan" source="" altitude="89.00" nodeid="node14" author="" latitude="20.435874" description="" datetime="5/1/2025 4:38 PM" comment="" heading="-194.693" customnodeid="Node01" longitude="106.184800" info=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" backgroundalpha="0.784314" background="1" textalpha="1" wordwrap="1" enabled="1" border="1" width="180"/>
+      <polystyle mode="2" bordercolor="0xffffff" backgroundalpha="0.141176" backgroundcolor="0x0000de" borderalpha="0" handcursor="1"/>
+      <hotspot title="DÃY NHÀ A" id="nhaa" url="" target="" pan="-332.74" description="" skinid="1" tilt="-27.05"/>
+      <hotspot title="SÂN TRƯỜNG" distance="100.886" id="santruong" url="{node6}" target="" pan="-359.88" skinid="2" description="" tilt="-36.66"/>
+      <hotspot title="CỔNG TRƯỜNG" distance="63.9686" id="congtruong" url="{node13}" target="" pan="-0.42" skinid="1" description="" tilt="-51.03"/>
+      <hotspot title="KÍ TÚC XÁ" id="ktx" url="" target="" pan="-100.23" description="" skinid="1" tilt="-21.53"/>
+      <hotspot title="CỔNG KTX" id="congktx" url="" target="" pan="-66.11" description="" skinid="1" tilt="-28.4"/>
+      <hotspot title="Sân Vận Động Thiên Trường" id="Point12" url="https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Thi%C3%AAn_Tr%C6%B0%E1%BB%9Dng" target="_blank" pan="-114.46" description="" skinid="ht_url" tilt="-8.26"/>
+      <hotspot title="Hồ Vị Xuyên TP. Nam Định" id="Point13" url="Zn9-cZXa5z8" target="" pan="-45.29" description="" skinid="ht_video_youtube" tilt="-7.3"/>
+      <hotspot title="PHÒNG TRUYỀN THỐNG" id="ptt" url="{node18}" target="" pan="0.17" description="" skinid="3" tilt="-25.22"/>
+      <hotspot title="DÃY NHÀ D" id="nhad" url="" target="" pan="-344.48" description="" skinid="1" tilt="-24.97"/>
+      <hotspot title="DÃY NHÀ C" id="nhac" url="" target="" pan="-21.69" description="" skinid="1" tilt="-36.25"/>
+      <hotspot title="DÃY NHÀ B" id="nhab" url="" target="" pan="-339.17" description="" skinid="1" tilt="-36.57"/>
+      <hotspot title="DÃY NHÀ E" id="nhae" url="" target="" pan="-31.46" description="" skinid="1" tilt="-19.31"/>
+      <hotspot title="" id="Point01" url="" target="" pan="-358.46" description="" skinid="hotspot_anothertour" tilt="-0.52"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="_background" loop="1" pan="-1.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0" field="90.000" tilt="-1.000" pansize="10.000">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <sound mode="7" level="1.000" id="vipsound" url="media/skin_snd_vipsound.mp3" loop="0" keep="1"/>
+    </media>
+    <transition zoomin="6" zoomafteroutfov="40" zoomoutpause="1" softedge="0" type="mesh" zoomspeed="2" zoomfov="40" delay="none" zoomout="0" blendtime="1.5" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0">
+      <clip transitiontype="0" nextclipstartview="1.3063/3.9812/94.08/4" length="280" nextclipnodeid="node14" animtitle="Animation01" nodeid="" cliptitle="Clip01" nextcliptitle="Clip01" animtype="0">
+        <keyframe time="0" valuestring="" transitiontime="0" property="0" type="0" value="1.3063" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="1" type="0" value="3.9812" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="2" type="0" value="94.08" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="3" type="0" value="4" additionaltrackid=""/>
+        <keyframe time="50" valuestring="" property="0" bezierinvalue="1.17724" type="2" value="1.17724" additionaltrackid="" transitiontime="0" bezieroutvalue="1.17724" bezierintime="35" bezierouttime="53.6"/>
+        <keyframe time="50" valuestring="" property="1" bezierinvalue="-42.958" type="2" value="-42.958" additionaltrackid="" transitiontime="0" bezieroutvalue="-42.958" bezierintime="35" bezierouttime="53.6"/>
+        <keyframe time="50" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="35" bezierouttime="53.6"/>
+        <keyframe time="62" valuestring="" property="0" bezierinvalue="1.17724" type="2" value="1.17724" additionaltrackid="" transitiontime="0" bezieroutvalue="1.17724" bezierintime="58.4" bezierouttime="67.4"/>
+        <keyframe time="62" valuestring="" property="1" bezierinvalue="-42.958" type="2" value="-42.958" additionaltrackid="" transitiontime="0" bezieroutvalue="-42.958" bezierintime="58.4" bezierouttime="67.4"/>
+        <keyframe time="62" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="58.4" bezierouttime="67.4"/>
+        <keyframe time="80" valuestring="" property="0" bezierinvalue="-80.6971" type="2" value="-80.6971" additionaltrackid="" transitiontime="0" bezieroutvalue="-80.6971" bezierintime="74.6" bezierouttime="89"/>
+        <keyframe time="80" valuestring="" property="1" bezierinvalue="-23.6466" type="2" value="-23.6466" additionaltrackid="" transitiontime="0" bezieroutvalue="-23.6466" bezierintime="74.6" bezierouttime="89"/>
+        <keyframe time="80" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="74.6" bezierouttime="89"/>
+        <keyframe time="110" valuestring="" property="0" bezierinvalue="-87.155" type="2" value="-87.155" additionaltrackid="" transitiontime="0" bezieroutvalue="-87.155" bezierintime="101" bezierouttime="117.5"/>
+        <keyframe time="110" valuestring="" property="1" bezierinvalue="-28.1284" type="2" value="-28.1284" additionaltrackid="" transitiontime="0" bezieroutvalue="-28.1284" bezierintime="101" bezierouttime="117.5"/>
+        <keyframe time="110" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="101" bezierouttime="117.5"/>
+        <keyframe time="135" valuestring="" property="0" bezierinvalue="-87.155" type="2" value="-87.155" additionaltrackid="" transitiontime="0" bezieroutvalue="-87.155" bezierintime="127.5" bezierouttime="144"/>
+        <keyframe time="135" valuestring="" property="1" bezierinvalue="-28.1284" type="2" value="-28.1284" additionaltrackid="" transitiontime="0" bezieroutvalue="-28.1284" bezierintime="127.5" bezierouttime="144"/>
+        <keyframe time="135" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="127.5" bezierouttime="144"/>
+        <keyframe time="199" valuestring="" property="0" bezierinvalue="-0.135494" type="2" value="-0.135494" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.135494" bezierintime="188.8" bezierouttime="223.3"/>
+        <keyframe time="199" valuestring="" property="1" bezierinvalue="-49.4188" type="2" value="-49.4188" additionaltrackid="" transitiontime="0" bezieroutvalue="-49.4188" bezierintime="188.8" bezierouttime="223.3"/>
+        <keyframe time="199" valuestring="" property="2" bezierinvalue="37.2726" type="2" value="37.2726" additionaltrackid="" transitiontime="0" bezieroutvalue="37.2726" bezierintime="188.8" bezierouttime="223.3"/>
+        <keyframe time="165" valuestring="" property="0" bezierinvalue="1.47406" type="2" value="1.47406" additionaltrackid="" transitiontime="0" bezieroutvalue="1.47406" bezierintime="156" bezierouttime="175.2"/>
+        <keyframe time="165" valuestring="" property="1" bezierinvalue="-30.3033" type="2" value="-30.3033" additionaltrackid="" transitiontime="0" bezieroutvalue="-30.3033" bezierintime="156" bezierouttime="175.2"/>
+        <keyframe time="165" valuestring="" property="2" bezierinvalue="68.2113" type="2" value="68.2113" additionaltrackid="" transitiontime="0" bezieroutvalue="68.2113" bezierintime="156" bezierouttime="175.2"/>
+        <keyframe time="280" valuestring="" property="0" bezierinvalue="-0.13" type="2" value="-0.13" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.13" bezierintime="255.7" bezierouttime="10280"/>
+        <keyframe time="280" valuestring="" property="1" bezierinvalue="-35.19" type="2" value="-35.19" additionaltrackid="" transitiontime="0" bezieroutvalue="-35.19" bezierintime="255.7" bezierouttime="10280"/>
+        <keyframe time="280" valuestring="" property="2" bezierinvalue="103.731" type="2" value="103.731" additionaltrackid="" transitiontime="0" bezieroutvalue="103.731" bezierintime="255.7" bezierouttime="10280"/>
+      </clip>
+      <clip transitiontype="0" nextclipstartview="2.10745/-9.32042/80.41/4" length="280" nextclipnodeid="node13" animtitle="Truong" nodeid="" cliptitle="Clip01" nextcliptitle="Clip02" animtype="0">
+        <keyframe time="0" valuestring="" transitiontime="0" property="0" type="0" value="1.3063" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="1" type="0" value="3.9812" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="2" type="0" value="94.08" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="3" type="0" value="4" additionaltrackid=""/>
+        <keyframe time="50" valuestring="" property="0" bezierinvalue="1.17724" type="2" value="1.17724" additionaltrackid="" transitiontime="0" bezieroutvalue="1.17724" bezierintime="35" bezierouttime="53.6"/>
+        <keyframe time="50" valuestring="" property="1" bezierinvalue="-42.958" type="2" value="-42.958" additionaltrackid="" transitiontime="0" bezieroutvalue="-42.958" bezierintime="35" bezierouttime="53.6"/>
+        <keyframe time="50" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="35" bezierouttime="53.6"/>
+        <keyframe time="62" valuestring="" property="0" bezierinvalue="1.17724" type="2" value="1.17724" additionaltrackid="" transitiontime="0" bezieroutvalue="1.17724" bezierintime="58.4" bezierouttime="67.4"/>
+        <keyframe time="62" valuestring="" property="1" bezierinvalue="-42.958" type="2" value="-42.958" additionaltrackid="" transitiontime="0" bezieroutvalue="-42.958" bezierintime="58.4" bezierouttime="67.4"/>
+        <keyframe time="62" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="58.4" bezierouttime="67.4"/>
+        <keyframe time="80" valuestring="" property="0" bezierinvalue="-80.6971" type="2" value="-80.6971" additionaltrackid="" transitiontime="0" bezieroutvalue="-80.6971" bezierintime="74.6" bezierouttime="89"/>
+        <keyframe time="80" valuestring="" property="1" bezierinvalue="-23.6466" type="2" value="-23.6466" additionaltrackid="" transitiontime="0" bezieroutvalue="-23.6466" bezierintime="74.6" bezierouttime="89"/>
+        <keyframe time="80" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="74.6" bezierouttime="89"/>
+        <keyframe time="110" valuestring="" property="0" bezierinvalue="-87.155" type="2" value="-87.155" additionaltrackid="" transitiontime="0" bezieroutvalue="-87.155" bezierintime="101" bezierouttime="117.5"/>
+        <keyframe time="110" valuestring="" property="1" bezierinvalue="-28.1284" type="2" value="-28.1284" additionaltrackid="" transitiontime="0" bezieroutvalue="-28.1284" bezierintime="101" bezierouttime="117.5"/>
+        <keyframe time="110" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="101" bezierouttime="117.5"/>
+        <keyframe time="135" valuestring="" property="0" bezierinvalue="-87.155" type="2" value="-87.155" additionaltrackid="" transitiontime="0" bezieroutvalue="-87.155" bezierintime="127.5" bezierouttime="144"/>
+        <keyframe time="135" valuestring="" property="1" bezierinvalue="-28.1284" type="2" value="-28.1284" additionaltrackid="" transitiontime="0" bezieroutvalue="-28.1284" bezierintime="127.5" bezierouttime="144"/>
+        <keyframe time="135" valuestring="" property="2" bezierinvalue="94.08" type="2" value="94.08" additionaltrackid="" transitiontime="0" bezieroutvalue="94.08" bezierintime="127.5" bezierouttime="144"/>
+        <keyframe time="199" valuestring="" property="0" bezierinvalue="-0.135494" type="2" value="-0.135494" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.135494" bezierintime="188.8" bezierouttime="223.3"/>
+        <keyframe time="199" valuestring="" property="1" bezierinvalue="-49.4188" type="2" value="-49.4188" additionaltrackid="" transitiontime="0" bezieroutvalue="-49.4188" bezierintime="188.8" bezierouttime="223.3"/>
+        <keyframe time="199" valuestring="" property="2" bezierinvalue="37.2726" type="2" value="37.2726" additionaltrackid="" transitiontime="0" bezieroutvalue="37.2726" bezierintime="188.8" bezierouttime="223.3"/>
+        <keyframe time="165" valuestring="" property="0" bezierinvalue="1.47406" type="2" value="1.47406" additionaltrackid="" transitiontime="0" bezieroutvalue="1.47406" bezierintime="156" bezierouttime="175.2"/>
+        <keyframe time="165" valuestring="" property="1" bezierinvalue="-30.3033" type="2" value="-30.3033" additionaltrackid="" transitiontime="0" bezieroutvalue="-30.3033" bezierintime="156" bezierouttime="175.2"/>
+        <keyframe time="165" valuestring="" property="2" bezierinvalue="68.2113" type="2" value="68.2113" additionaltrackid="" transitiontime="0" bezieroutvalue="68.2113" bezierintime="156" bezierouttime="175.2"/>
+        <keyframe time="280" valuestring="" property="0" bezierinvalue="-0.13" type="2" value="-0.13" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.13" bezierintime="255.7" bezierouttime="10280"/>
+        <keyframe time="280" valuestring="" property="1" bezierinvalue="-35.19" type="2" value="-35.19" additionaltrackid="" transitiontime="0" bezieroutvalue="-35.19" bezierintime="255.7" bezierouttime="10280"/>
+        <keyframe time="280" valuestring="" property="2" bezierinvalue="103.731" type="2" value="103.731" additionaltrackid="" transitiontime="0" bezieroutvalue="103.731" bezierintime="255.7" bezierouttime="10280"/>
+      </clip>
+    </animation>
+    <control lockedkeyboardzoom="0" lockedkeyboard="0" hideabout="1" zoomcentercursor="0" contextvr="0" simulatemass="1" dblclickfullscreen="0" speedwheel="1" sensitivity="20" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="1" lockedmouse="0">
+      <menulink url="https://lhpcorp.com/" text="Create by LHP Corp"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" overlap="1" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" width="2048">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="69.8415">
+      <start projection="4" pan="-90.94" fov="114.85" tilt="-90"/>
+      <flyin projection="9" pan="0" fov="300" tilt="-120"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="GÓC TRÊN" copyright="" tags="Tongquan" source="" altitude="79.00" nodeid="node4" author="" latitude="" description="" datetime="1/1/1970 12:00 AM" comment="" heading="69.8415" customnodeid="" longitude="" info=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" backgroundalpha="0.784314" background="1" textalpha="1" wordwrap="1" enabled="1" border="1" width="180"/>
+      <polystyle mode="2" bordercolor="0xffffff" backgroundalpha="0.141176" backgroundcolor="0x0000de" borderalpha="0" handcursor="1"/>
+      <hotspot title="CỔNG TRƯỜNG" id="congtruong" url="{node13}" target="" pan="-266.85" description="" skinid="1" tilt="-57.18"/>
+      <hotspot title="SÂN TRƯỜNG" id="santruong" url="{node6}" target="" pan="-190.36" description="" skinid="1" tilt="-86.36"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="_background" loop="1" pan="-1.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0" field="90.000" tilt="-1.000" pansize="10.000">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <sound mode="7" level="1.000" id="vipsound" url="media/skin_snd_vipsound.mp3" loop="0" keep="1"/>
+    </media>
+    <transition zoomin="6" zoomafteroutfov="40" zoomoutpause="1" softedge="0" type="mesh" zoomspeed="2" zoomfov="40" delay="none" zoomout="0" blendtime="1.5" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" lockedkeyboard="0" hideabout="1" zoomcentercursor="0" contextvr="0" simulatemass="1" dblclickfullscreen="0" speedwheel="1" sensitivity="20" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="1" lockedmouse="0">
+      <menulink url="https://lhpcorp.com/" text="Create by LHP Corp"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" overlap="1" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" width="2048">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-193.847">
+      <start projection="4" pan="1.75" fov="80.41" tilt="-6.03"/>
+      <flyin projection="9" pan="0" fov="300" tilt="-120"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="CỔNG TRƯỜNG" copyright="" tags="KVT" source="" altitude="20.00" nodeid="node13" author="" latitude="20.43531125" description="" datetime="5/1/2025 4:43 PM" comment="" heading="-193.847" customnodeid="" longitude="106.18492745" info=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" backgroundalpha="0.784314" background="1" textalpha="1" wordwrap="1" enabled="1" border="1" width="180"/>
+      <polystyle mode="2" bordercolor="0xffffff" backgroundalpha="0.141176" backgroundcolor="0x0000de" borderalpha="0" handcursor="1"/>
+      <hotspot title="SÂN TRƯỜNG" distance="36.9191" id="santruong" url="{node6}" target="" pan="-2.31" skinid="1" description="" tilt="-8.68"/>
+      <hotspot title="TOÀN CẢNH" distance="63.9686" customimagewidth="1024" distance3D="10037.7" id="Point02" url="{node14}" target="" pan="-179.82" skinid="1" fov="5.8399999999999999" use3D="1" customimageheight="1024" description="" tilt="49.13" customimage="media/flygif.gif"/>
+    </hotspots>
+    <media>
+      <video mode="1" hidepinned="0" id="Element02" handcursor="0" rotx="-8.090" popoutscaling="100" level="1.000" nodechangekeep="0" roty="17.830" tilt="-14.170" rotz="2.600" width="1500" clickmode="2" loop="1" pan="16.820" tiltsize="10.000" popbackmode="0" fov="17.630" stretch="1.076" ambientlevel="0.000" height="2160" startmutedmobile="0" field="90.000" pansize="10.000">
+        <source url="media/clip Copy 01.webm"/>
+      </video>
+      <sound mode="0" id="_background" loop="1" pan="-1.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0" field="90.000" tilt="-1.000" pansize="10.000">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <sound mode="7" level="1.000" id="vipsound" url="media/skin_snd_vipsound.mp3" loop="0" keep="1"/>
+    </media>
+    <transition zoomin="6" zoomafteroutfov="40" zoomoutpause="1" softedge="0" type="mesh" zoomspeed="2" zoomfov="40" delay="none" zoomout="0" blendtime="1.5" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0">
+      <clip transitiontype="0" nextclipstartview="1.3063/3.9812/94.08/4" length="220" nextclipnodeid="node14" animtitle="Truong" nodeid="" cliptitle="Clip02" nextcliptitle="Clip01" animtype="0">
+        <keyframe time="0" valuestring="" transitiontime="0" property="0" type="0" value="2.10745" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="1" type="0" value="-9.32042" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="2" type="0" value="80.41" additionaltrackid=""/>
+        <keyframe time="0" valuestring="" transitiontime="0" property="3" type="0" value="4" additionaltrackid=""/>
+        <keyframe time="49" valuestring="" property="0" bezierinvalue="61.2587" type="2" value="61.2587" additionaltrackid="" transitiontime="0" bezieroutvalue="61.2587" bezierintime="40.3" bezierouttime="64.3"/>
+        <keyframe time="49" valuestring="" property="1" bezierinvalue="8.26977" type="2" value="8.26977" additionaltrackid="" transitiontime="0" bezieroutvalue="8.26977" bezierintime="40.3" bezierouttime="64.3"/>
+        <keyframe time="49" valuestring="" property="2" bezierinvalue="80.41" type="2" value="80.41" additionaltrackid="" transitiontime="0" bezieroutvalue="80.41" bezierintime="40.3" bezierouttime="64.3"/>
+        <keyframe time="100" valuestring="" property="0" bezierinvalue="-56.7987" type="2" value="-56.7987" additionaltrackid="" transitiontime="0" bezieroutvalue="-56.7987" bezierintime="84.7" bezierouttime="130"/>
+        <keyframe time="100" valuestring="" property="1" bezierinvalue="4.94514" type="2" value="4.94514" additionaltrackid="" transitiontime="0" bezieroutvalue="4.94514" bezierintime="84.7" bezierouttime="130"/>
+        <keyframe time="100" valuestring="" property="2" bezierinvalue="80.41" type="2" value="80.41" additionaltrackid="" transitiontime="0" bezieroutvalue="80.41" bezierintime="84.7" bezierouttime="130"/>
+        <keyframe time="20" valuestring="" property="0" bezierinvalue="-1.22247" type="2" value="-1.22247" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.22247" bezierintime="14" bezierouttime="28.7"/>
+        <keyframe time="20" valuestring="" property="1" bezierinvalue="-1.92058" type="2" value="-1.92058" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.92058" bezierintime="14" bezierouttime="28.7"/>
+        <keyframe time="20" valuestring="" property="2" bezierinvalue="80.41" type="2" value="80.41" additionaltrackid="" transitiontime="0" bezieroutvalue="80.41" bezierintime="14" bezierouttime="28.7"/>
+        <keyframe time="200" valuestring="" property="0" bezierinvalue="3.24598" type="2" value="3.24598" additionaltrackid="" transitiontime="0" bezieroutvalue="3.24598" bezierintime="170" bezierouttime="206"/>
+        <keyframe time="200" valuestring="" property="1" bezierinvalue="9.22486" type="2" value="9.22486" additionaltrackid="" transitiontime="0" bezieroutvalue="9.22486" bezierintime="170" bezierouttime="206"/>
+        <keyframe time="200" valuestring="" property="2" bezierinvalue="80.41" type="2" value="80.41" additionaltrackid="" transitiontime="0" bezieroutvalue="80.41" bezierintime="170" bezierouttime="206"/>
+        <keyframe time="220" valuestring="" property="0" bezierinvalue="-1.56466" type="2" value="-1.56466" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.56466" bezierintime="214" bezierouttime="10220"/>
+        <keyframe time="220" valuestring="" property="1" bezierinvalue="-6.20323" type="2" value="-6.20323" additionaltrackid="" transitiontime="0" bezieroutvalue="-6.20323" bezierintime="214" bezierouttime="10220"/>
+        <keyframe time="220" valuestring="" property="2" bezierinvalue="37.9885" type="2" value="37.9885" additionaltrackid="" transitiontime="0" bezieroutvalue="37.9885" bezierintime="214" bezierouttime="10220"/>
+        <keyframe time="0" valuestring="false" transitiontime="0" property="4" additionaltracktype="2" type="3" value="0" additionaltrackid="tour_stop"/>
+        <keyframe time="195" valuestring="true" transitiontime="0" property="4" additionaltracktype="2" type="3" value="0" additionaltrackid="tour_stop"/>
+      </clip>
+    </animation>
+    <control lockedkeyboardzoom="0" lockedkeyboard="0" hideabout="1" zoomcentercursor="0" contextvr="0" simulatemass="1" dblclickfullscreen="0" speedwheel="1" sensitivity="20" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="1" lockedmouse="0">
+      <menulink url="https://lhpcorp.com/" text="Create by LHP Corp"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" overlap="1" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" width="2048">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="76.0999">
+      <start projection="4" pan="-96.53" fov="86.03" tilt="-37.5"/>
+      <flyin projection="9" pan="0" fov="300" tilt="-120"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="SÂN TRƯỜNG" copyright="" tags="KVT" source="" altitude="43.00" nodeid="node6" author="" latitude="20.43498557" description="" datetime="1/1/1970 12:00 AM" comment="" heading="76.0999" customnodeid="" longitude="106.18499637" info=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" backgroundalpha="0.784314" background="1" textalpha="1" wordwrap="1" enabled="1" border="1" width="180"/>
+      <polystyle mode="2" bordercolor="0xffffff" backgroundalpha="0.141176" backgroundcolor="0x0000de" borderalpha="0" handcursor="1"/>
+      <hotspot title="DÃY NHÀ A" id="nhaa" url="" target="" pan="-5.68" description="" skinid="1" tilt="-3.58"/>
+      <hotspot title="CỔNG TRƯỜNG" distance="36.9191" id="congtruong" url="{node13}" target="" pan="-267.54" skinid="1" description="" tilt="-32.5"/>
+      <hotspot title="TOÀN CẢNH" distance="100.886" customimagewidth="1024" distance3D="9769.54" id="Point09" url="{node14}" target="" pan="-264.46" skinid="1" fov="6" use3D="1" customimageheight="1024" description="" tilt="27.36" customimage="media/flygif.gif"/>
+      <hotspot title="PHÒNG TRUYỀN THỐNG" id="ptt" url="{node18}" target="" pan="-5.28" description="" skinid="3" tilt="-17.77"/>
+      <hotspot title="DÃY NHÀ D" id="Point02" url="" target="" pan="-41.87" description="" skinid="1" tilt="-7.32"/>
+      <hotspot title="DÃY NHÀ B" id="nhab" url="" target="" pan="-226.99" description="" skinid="1" tilt="-8.73"/>
+      <hotspot title="DÃY NHÀ C" id="nhac" url="" target="" pan="-304.36" description="" skinid="1" tilt="-4.92"/>
+      <hotspot title="DÃY NHÀ E" id="nhae" url="" target="" pan="-167.5" description="" skinid="1" tilt="-2.71"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="_background" loop="1" pan="-1.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0" field="90.000" tilt="-1.000" pansize="10.000">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <lensflare color="0xffffff" id="Lensflare01" pan="-19.850" blinding="50.000" type="1" tilt="16.850" alpha="80.000"/>
+      <sound mode="7" level="1.000" id="vipsound" url="media/skin_snd_vipsound.mp3" loop="0" keep="1"/>
+    </media>
+    <transition zoomin="6" zoomafteroutfov="40" zoomoutpause="1" softedge="0" type="mesh" zoomspeed="2" zoomfov="40" delay="none" zoomout="0" blendtime="1.5" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" lockedkeyboard="0" hideabout="1" zoomcentercursor="0" contextvr="0" simulatemass="1" dblclickfullscreen="0" speedwheel="1" sensitivity="20" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="1" lockedmouse="0">
+      <menulink url="https://lhpcorp.com/" text="Create by LHP Corp"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="4000" overlap="1" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" width="4000">
+      <level preload="0" height="4000" predecode="0" width="4000"/>
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-4.92634" fov="97.8007" tilt="-3.37242"/>
+      <flyin projection="9" pan="0" fov="300" tilt="-120"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="PHÒNG TRUYỀN THỐNG" copyright="" tags="phong" source="" altitude="-3048.00" nodeid="node18" author="" latitude="" description="" datetime="" comment="" heading="0" customnodeid="" longitude="" info=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" backgroundalpha="0.784314" background="1" textalpha="1" wordwrap="1" enabled="1" border="1" width="180"/>
+      <polystyle mode="2" bordercolor="0xffffff" backgroundalpha="0.141176" backgroundcolor="0x0000de" borderalpha="0" handcursor="1"/>
+      <hotspot title="Trường THPT Chuyên Lê Hồng Phong, Nam Định: 1 thế kỷ trồng người" id="Point02" url="aOqTqbLbTKQ" target="" pan="-359.65" description="" skinid="ht_video_youtube" tilt="1.39"/>
+      <hotspot title="TOÀN CẢNH" id="toancanh" url="{node14}" target="" pan="-326.45" description="" skinid="1" tilt="-2.32"/>
+      <hotspot title="SÂN TRƯỜNG" id="santruong" url="{node6}" target="" pan="-32.18" description="" skinid="1" tilt="-3.2"/>
+      <hotspot title="1980 - 1983" id="Point01" url="{node1}" target="" pan="-146.3" description="" skinid="4" tilt="14.54"/>
+      <hotspot title="" id="Point03" url="" target="" pan="-52.06" description="" skinid="hotspot_multi" tilt="0.57"/>
+      <hotspot title="" id="Point04" url="" target="" pan="-179.01" description="" skinid="hotspot_image" tilt="-14.8"/>
+      <hotspot title="" id="Point07" url="" target="" pan="-359.53" description="" skinid="gpt_hs" tilt="-35.29"/>
+      <hotspot title="" id="Point05" url="" target="" pan="-119.84" description="" skinid="tmpl_frame1" tilt="8.38"/>
+    </hotspots>
+    <media>
+      <video mode="1" hidepinned="0" id="Element02" handcursor="0" rotx="-4.206" popoutscaling="100" level="1.000" nodechangekeep="0" roty="-23.128" tilt="-4.365" rotz="-2.448" width="100" clickmode="2" loop="1" pan="-24.758" tiltsize="10.000" popbackmode="0" fov="24.437" stretch="1.281" ambientlevel="0.000" height="100" startmutedmobile="0" field="90.000" pansize="10.000">
+        <source url="media/Video MC 02.webm"/>
+      </video>
+      <sound mode="0" id="_background" loop="1" pan="-1.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0" field="90.000" tilt="-1.000" pansize="10.000">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <sound mode="7" level="1.000" id="vipsound" url="media/skin_snd_vipsound.mp3" loop="0" keep="1"/>
+    </media>
+    <transition zoomin="6" zoomafteroutfov="40" zoomoutpause="1" softedge="0" type="mesh" zoomspeed="2" zoomfov="40" delay="none" zoomout="0" blendtime="1.5" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" lockedkeyboard="0" hideabout="1" zoomcentercursor="0" contextvr="0" simulatemass="1" dblclickfullscreen="0" speedwheel="1" sensitivity="20" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="1" lockedmouse="0">
+      <menulink url="https://lhpcorp.com/" text="Create by LHP Corp"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama hideabout="1" id="node1">
+    <input levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" width="1000">
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-8.55" fov="80.69" tilt="-0.51"/>
+      <flyin projection="9" pan="0" fov="300" tilt="-120"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="NIÊN KHOÁ" copyright="" tags="phong" source="" altitude="-3048.00" nodeid="node1" author="" latitude="" description="" datetime="" comment="" heading="0" customnodeid="" longitude="" info=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" backgroundalpha="0.784314" background="1" textalpha="1" wordwrap="1" enabled="1" border="1" width="180"/>
+      <polystyle mode="2" bordercolor="0xffffff" backgroundalpha="0.141176" backgroundcolor="0x0000de" borderalpha="0" handcursor="1"/>
+      <hotspot title="1981 - 1984" id="Point02" url="{node16}" target="" pan="-24.14" description="" skinid="4" tilt="1.86"/>
+      <hotspot title="" id="Point03" url="https://drive.google.com/drive/folders/1DL-vwLs6Pa8JF4h05cvQa5d0pZzQnDxd" target="_blank" pan="-358.52" description="" skinid="hotspot_link_1" tilt="6.42"/>
+      <hotspot title="PHÒNG TRUYỀN THỐNG" id="ptt" url="{node18}" target="" pan="-332.39" description="" skinid="3" tilt="1.04"/>
+    </hotspots>
+    <media>
+      <video mode="1" hidepinned="0" id="Element01" handcursor="0" rotx="-2.052" popoutscaling="100" level="1.000" nodechangekeep="0" roty="-21.388" tilt="-1.405" rotz="-0.318" width="1500" clickmode="2" loop="1" pan="-18.343" tiltsize="10.000" popbackmode="0" fov="18.090" stretch="1.093" ambientlevel="0.000" height="2160" startmutedmobile="0" field="90.000" pansize="10.000">
+        <source url="media/Video MC 03.webm"/>
+      </video>
+      <sound mode="0" id="_background" loop="1" pan="-1.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0" field="90.000" tilt="-1.000" pansize="10.000">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <sound mode="7" level="1.000" id="vipsound" url="media/skin_snd_vipsound.mp3" loop="0" keep="1"/>
+    </media>
+    <transition zoomin="6" zoomafteroutfov="40" zoomoutpause="1" softedge="0" type="mesh" zoomspeed="2" zoomfov="40" delay="none" zoomout="0" blendtime="1.5" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" lockedkeyboard="0" hideabout="1" zoomcentercursor="0" contextvr="0" simulatemass="1" dblclickfullscreen="0" speedwheel="1" sensitivity="20" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="1" lockedmouse="0">
+      <menulink url="https://lhpcorp.com/" text="Create by LHP Corp"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" overlap="1" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="300" tilt="-120"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="KHOÁ KẾ TIẾP" copyright="" tags="phong" source="" altitude="-3048.00" nodeid="node16" author="" latitude="" description="" datetime="" comment="" heading="0" customnodeid="" longitude="" info=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" backgroundalpha="0.784314" background="1" textalpha="1" wordwrap="1" enabled="1" border="1" width="180"/>
+      <polystyle mode="2" bordercolor="0xffffff" backgroundalpha="0.141176" backgroundcolor="0x0000de" borderalpha="0" handcursor="1"/>
+      <hotspot title="KHOÁ KẾ TIẾP" id="Point02" url="" target="" pan="-32.26" description="" skinid="3" tilt="-2.54"/>
+      <hotspot title="PHÒNG TRUYỀN THỐNG" id="ptt" url="{node18}" target="" pan="-326.51" description="" skinid="3" tilt="-2.49"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="_background" loop="1" pan="-1.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0" field="90.000" tilt="-1.000" pansize="10.000">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <sound mode="7" level="1.000" id="vipsound" url="media/skin_snd_vipsound.mp3" loop="0" keep="1"/>
+    </media>
+    <transition zoomin="6" zoomafteroutfov="40" zoomoutpause="1" softedge="0" type="mesh" zoomspeed="2" zoomfov="40" delay="none" zoomout="0" blendtime="1.5" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" lockedkeyboard="0" hideabout="1" zoomcentercursor="0" contextvr="0" simulatemass="1" dblclickfullscreen="0" speedwheel="1" sensitivity="20" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="1" lockedmouse="0">
+      <menulink url="https://lhpcorp.com/" text="Create by LHP Corp"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1000" overlap="1" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" width="1000">
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="300" tilt="-120"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="DEMO" copyright="" tags="ktx|NhaA|nhab|nhac|nhad|nhae" source="" altitude="-3048.00" nodeid="node8" author="" latitude="" description="" datetime="" comment="" heading="0" customnodeid="" longitude="" info=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" height="20" backgroundalpha="0.784314" background="1" textalpha="1" wordwrap="1" enabled="1" border="1" width="180"/>
+      <polystyle mode="2" bordercolor="0xffffff" backgroundalpha="0.141176" backgroundcolor="0x0000de" borderalpha="0" handcursor="1"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="_background" loop="1" pan="-1.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" nodechangekeep="1" startmutedmobile="0" field="90.000" tilt="-1.000" pansize="10.000">
+        <source mono="0" url="media/nen.mp3"/>
+      </sound>
+      <sound mode="7" level="1.000" id="vipsound" url="media/skin_snd_vipsound.mp3" loop="0" keep="1"/>
+    </media>
+    <transition zoomin="6" zoomafteroutfov="40" zoomoutpause="1" softedge="0" type="mesh" zoomspeed="2" zoomfov="40" delay="none" zoomout="0" blendtime="1.5" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" lockedkeyboard="0" hideabout="1" zoomcentercursor="0" contextvr="0" simulatemass="1" dblclickfullscreen="0" speedwheel="1" sensitivity="20" contextfullscreen="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="1" lockedmouse="0">
+      <menulink url="https://lhpcorp.com/" text="Create by LHP Corp"/>
+    </control>
+    <vr toggleskinbutton="1" skinbuttonposition="1" defaulthsscale="100"/>
+  </panorama>
+  <masternode>
+    <userdata title="Trường LHP" author="" copyright="" tags="" description="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01">
+        <sequenceelement index="0" cliptitle="Clip01" startview="1.3063/3.9812/94.08/4" nodeid="node14"/>
+      </sequence>
+      <sequence title="Truong">
+        <sequenceelement index="0" cliptitle="Clip01" startview="1.3063/3.9812/94.08/4" nodeid="node14"/>
+        <sequenceelement index="1" cliptitle="Clip02" startview="2.10745/-9.32042/80.41/4" nodeid="node13"/>
+      </sequence>
+    </animationsequences>
+  </masternode>
+  <map title="" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapmaxzoom="18" mapprovider="openstreetmap" id="Map01" mapstyle="streets" type="web" googlecustomstylecode="" index="0"/>
+  <customproperty propertytype="2" variablename="tour_stop" variabletype="2" defaultvalue=""/>
+</tour>

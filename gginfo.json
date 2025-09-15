@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [
+			"https://www.youtube.com/iframe_api",
+			"https://player.vimeo.com/api/player.js",
+			"3rdparty/leaflet/leaflet.js"
+		],
+		"css": [
+			"https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap\" rel=\"stylesheet",
+			"https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap",
+			"https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap",
+			"3rdparty/leaflet/leaflet.css"
+		]
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"vrskin": {},
+	"player": {
+		"js": "pano2vr_player.js"
+	},
+	"creationdate": "2025-08-23T02:17:54.320Z",
+	"configuration": "pano.xml",
+	"preview": {
+		"img": "preview.jpg",
+		"width": 640,
+		"height": 480
+	}
+}
